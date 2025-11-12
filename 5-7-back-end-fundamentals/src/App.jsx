@@ -1,26 +1,4 @@
-/*
-===================================================================
-Back-end Lab — Node & Express
-===================================================================
-
-===================================================================
-LAB SETUP INSTRUCTIONS
-===================================================================
-
-1. Navigate to the project directory:
-   Open your terminal and run:
-      cd 5-7-back-end-fundamentals
-
-2. Install project dependencies:
-   Run either of these commands:
-      npm install
-      npm install express cors
-
-3. Start the front server server from 5-7-back-end-fundamentals-Dromarjh-main\5-7-back-end-fundamentals path:
-   Run:
-      npm run dev
-
-4. Start the back-end server from a separate terminal, path: 5-7-back-end-fundamentals-Dromarjh-main\5-7-back-end-fundamentals\backend:
+damentals-Dromarjh-main\5-7-back-end-fundamentals\backend:
    Run:
       node server.js
 
